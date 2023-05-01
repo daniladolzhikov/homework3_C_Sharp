@@ -11,6 +11,6 @@ void Cube(int N)
     }
 }
 
-Console.Write("Введите N: ");
+Console.Write("Введите число N: ");
 int N = Convert.ToInt32(Console.ReadLine());
 Cube(N);
